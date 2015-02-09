@@ -1,0 +1,30 @@
+{
+  "name": "internacia-konferenco",
+  "version": "0.0.0",
+  "authors": [
+    "Ramiro Silveyra d'Avila"
+  ],
+  "description": "Traducción en tiempo real.",
+  "main": "dist/*",
+  "keywords": [
+    "web",
+    "website",
+    "webapp",
+    "application"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ramasilveyra/internacia-konferenco",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "modernizr": "~2.8.3",
+    "normalize.css": "~3.0.2"
+  }
+}

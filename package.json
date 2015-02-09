@@ -1,0 +1,32 @@
+{
+  "name": "internacia-konferenco",
+  "version": "0.0.0",
+  "description": "Traducción en tiempo real.",
+  "main": "dist/*",
+  "scripts": {
+    "test": "gulp"
+  },
+  "keywords": [
+    "web",
+    "website",
+    "webapp",
+    "application"
+  ],
+  "author": {
+    "name": "Ramiro Silveyra d'Avila",
+    "url": "http://ramasilveyra.com.ar/"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "run-sequence": "^1.0.2",
+    "gulp-concat": "^2.4.2",
+    "gulp-load-plugins": "^0.8.0",
+    "browser-sync": "^1.8.0",
+    "gulp": "^3.8.10",
+    "gulp-watch": "^3.0.0",
+    "gulp-jshint": "^1.9.0",
+    "gulp-uglify": "^1.0.2",
+    "gulp-csso": "^0.2.9",
+    "gulp-imagemin": "^2.0.0"
+  }
+}
